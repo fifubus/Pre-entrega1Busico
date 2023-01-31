@@ -1,0 +1,35 @@
+
+
+#e-shop{
+    text-align: center;
+    justify-content: center;
+    border-style: groove;
+    border-color: white;
+    background-color: black;
+}
+
+#footer{
+    background-color: black;
+}
+
+#eshop_footer{
+    color: white;
+    text-align: center;
+}
+
+#titulo_footer{
+    color: white;
+    text-align: center;
+}
+
+#subtitulo_footer{
+    color: white;
+    text-align: center;
+}
+
+#btn_footer{
+    position: relative;
+    left: 692px;
+}
+
+
